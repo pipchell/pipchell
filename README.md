@@ -12,6 +12,3 @@ I specialise in **branding**, **web design**, **IoT projects**, and **creative t
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 (and a bit of)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pipchell&show_icons=true&theme=tokyonight&hide_border=true)
