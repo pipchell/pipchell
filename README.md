@@ -3,7 +3,7 @@
 Graphic design and development enthusiast based in Hertfordshire.
 I specialise in **branding**, **web design**, **IoT projects**, and **creative technology**.
 
-🌐 [Main Website](https://pipchell.com) · 🦊 [All Projects](https://pipchell.com/directory)
+🌐 [Main Website](https://pipchell.com) · 🌐 [All Projects](https://pipchell.com/directory)
 
 ---
 
