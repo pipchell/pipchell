@@ -2,6 +2,11 @@
 
 # Hey, I'm Pip
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pipchell" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pipchell" height="150">
+</p>
+
 Graphic design & dev enthusiast from Hertfordshire — I make things look good *and* work well.
 I specialise in **branding**, **web design**, **IoT**, and **creative technology**.
 
