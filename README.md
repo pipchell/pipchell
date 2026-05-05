@@ -1,3 +1,5 @@
+<img src="banner.png" />
+
 # Hey, I'm Pip
 
 Graphic design & dev enthusiast from Hertfordshire — I make things look good *and* work well.
