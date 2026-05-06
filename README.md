@@ -1,32 +1,58 @@
-<img src="banner.png" width="100%" />
+<p align="center">
+  <img src="banner.png" width="100%" />
+</p>
 
-# Hey, I'm Pip
+<h1 align="center">Hey, I'm Pip</h1>
 
-Graphic design & dev enthusiast from Hertfordshire — I make things look good *and* work well.
-I specialise in **branding**, **web design**, **IoT**, and **creative technology**.
+<p align="center">
+  <b>Graphic design & dev enthusiast</b><br>
+  Hertfordshire, UK
+</p>
 
-🌐 [pipchell.com](https://pipchell.com) · 📁 [All Projects](https://pipchell.com/directory)
+<p align="center">
+  I like things that look good <i>and</i> work well.<br>
+  Specialising in <b>branding</b>, <b>web design</b>, <b>IoT</b>, and <b>creative technology</b>.
+</p>
 
----
-
-## What I work with
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-<br>
-(and a bit of)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
----
-
-## A bit about me
-
-- I care a lot about design details
-- I build IoT stuff and weird little web projects for fun
-- Contact me at [pipchell.com/me](https://pipchell.com/me)
+<p align="center">
+  🌐 <a href="https://pipchell.com">Website</a> •
+  📁 <a href="https://pipchell.com/directory">Projects</a> •
+  ✉️ <a href="https://pipchell.com/me">Contact</a>
+</p>
 
 ---
 
-## Spare Account
+<h2 align="center">What I Work With</h2>
 
-[pipchell2](https://github.com/pipchell2) 
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</p>
+
+<p align="center">
+  <sub>and a bit of</sub>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</p>
+
+---
+
+<h2 align="center">About Me</h2>
+
+<div align="center">
+  <p style="align=center;">
+    I care about design details <br>
+    I build IoT stuff and weird little web projects for fun <br>
+    More info at <a href="https://pipchell.com">pipchell.com</a>
+  </p>
+</div>
+
+---
+
+<h2 align="center">Spare Account</h2>
+<p align="center">
+  <a href="https://github.com/pipchell2">pipchell2</a>
+</p>
+
