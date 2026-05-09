@@ -2,7 +2,7 @@
   <img src="banner.png" width="100%" />
 </p>
 
-<h1>Hey, I'm Pip</h1>
+<h1>Hey, I'm Pip :)</h1>
 
 <p>
   <b>Graphic design & dev enthusiast</b><br>
