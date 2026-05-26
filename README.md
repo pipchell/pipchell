@@ -51,7 +51,7 @@
 
 ---
 
-<h2>Other Accounts:</h2>
+<h2>Other Dev Accounts:</h2>
 
 <h3>Spare GitHub account:</h3>
 <p>
