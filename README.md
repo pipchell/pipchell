@@ -55,15 +55,15 @@
 
 <h3>Spare GitHub account:</h3>
 <p>
-  <a href="https://github.com/pipchell2">pipchell2</a>
+  <a href="https://short.pipchell.com/github-alt">pipchell2</a>
 </p>
 
 <h3>Tangled account:</h3>
 <p>
-  <a href="https://tangled.org/tangled.pipchell.com">tangled.pipchell.com</a>
+  <a href="https://short.pipchell.com/tangled">tangled.pipchell.com</a>
 </p>
 
 <h3>Codeburg account:</h3>
 <p>
-  <a href="https://codeberg.org/pipc">pipc</a>
+  <a href="https://short.pipchell.com/codeburg">pipc</a>
 </p>
