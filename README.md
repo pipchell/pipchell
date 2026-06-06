@@ -43,9 +43,10 @@
 
 <div>
   <p>
-    I care about design details <br>
-    I build IoT stuff and weird little web projects for fun <br>
-    More info at <a href="https://pipchell.com">pipchell.com</a>
+    - I care about design details <br>
+    - I build IoT stuff and weird little web projects for fun <br>
+    
+  More info at <a href="https://pipchell.com">pipchell.com</a>
   </p>
 </div>
 
@@ -53,17 +54,8 @@
 
 <h2>Other Dev Accounts:</h2>
 
-<h3>Spare GitHub account:</h3>
 <p>
-  <a href="https://short.pipchell.com/github-alt">pipchell2</a>
-</p>
-
-<h3>Tangled account:</h3>
-<p>
-  <a href="https://short.pipchell.com/tangled">tangled.pipchell.com</a>
-</p>
-
-<h3>Codeburg account:</h3>
-<p>
-  <a href="https://short.pipchell.com/codeburg">pipc</a>
+  <a href="https://short.pipchell.com/github-alt">GitHub Alt</a> •
+  <a href="https://short.pipchell.com/tangled">Tangled</a> •
+  <a href="https://short.pipchell.com/codeburg">Codeburg</a>
 </p>
