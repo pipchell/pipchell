@@ -59,3 +59,5 @@
   <a href="https://short.pipchell.com/tangled">Tangled</a> •
   <a href="https://short.pipchell.com/codeburg">Codeburg</a>
 </p>
+
+<a href="https://github-trophies.devomb.com/?username=pipchell&theme=dark"</a>
